@@ -1,0 +1,12 @@
+# macOS
+.DS_Store
+._*
+
+.venv/
+
+*.csv
+data/raw/*.csv
+data/processed/*.csv
+
+.vscode/
+
